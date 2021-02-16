@@ -1,7 +1,7 @@
 # TETRIS
 A Classic Oldschool Game for Game lovers
 
-# How to build it ?
+# Technologies used
 Using Java JDK 8+
 
 #Packages used-:  
