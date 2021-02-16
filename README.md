@@ -2,7 +2,7 @@
 A Classic Oldschool Game for Game lovers
 
 # Technologies used
-Using Java JDK 8+
+Java JDK 8+
 
 #Packages used-:  
  java awt,
