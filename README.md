@@ -23,6 +23,10 @@ Using Java JDK 8+
     DOWN - "Hard drop" current shape
 
 ![](IMAGE/image1.png)
+
+#Pieces
+Differrent Tetris pieces available in the game will appear on the side of the playing area which will come next. 
+
 # Score criteria
 When a horizonatal line in the playing space is completly filled with the pieces then-  
 Score point will be increased by 10 points
