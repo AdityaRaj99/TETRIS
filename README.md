@@ -23,9 +23,9 @@ Using Java JDK 8+
     DOWN - "Hard drop" current shape
 
 ![](IMAGE/image1.png)
-
-# Score criteria   
-When a horizonatal line in the playing space is completly filled with the pieces then only 
+# Score criteria
+When a horizonatal line in the playing space is completly filled with the pieces then-  
+Score point will be increased by 10 and one line will be decreased in the playing area and this continues until Line score reach 10.   
+After that 1 Level will be increased.
 ![](IMAGE/image2.png)
 
-![](IMAGE/image.gif)
