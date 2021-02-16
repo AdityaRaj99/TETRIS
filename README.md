@@ -24,7 +24,7 @@ Using Java JDK 8+
 
 ![](IMAGE/image1.png)
 
-#Pieces
+# Pieces
 Differrent Tetris pieces available in the game will appear on the side of the playing area which will come next. 
 
 # Score criteria
