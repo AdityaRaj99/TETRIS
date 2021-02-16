@@ -25,10 +25,23 @@ Using Java JDK 8+
 ![](IMAGE/image1.png)
 # Score criteria
 When a horizonatal line in the playing space is completly filled with the pieces then-  
-Score point will be increased by 10 and one line will be decreased in the playing area and this continues until Line score reach 10.
+Score point will be increased by 10 points
 
-After that 1 Level will be increased.
+one line will be decreased in the playing area and this continues till Line-score reach 10.
+
+After that 1 Level will be increased and line score will go back to 0.
+
+# Scoreboard
+It contains all the scores that will change during the play(High score, Level , Lines , Score.
+
+One with the highest score wins.
 
 
 ![](IMAGE/image2.png)
 
+# Working
+Random pieces of Tetris blocks will fall down from random places and on coming down, we can move those pieces using keys and also can change their rotations.
+
+After filling up any horizantal line all other pieces will fall down keeping the same shapes they are in to a lower line.
+
+By this the score on the scoreboard will change respectively. 
